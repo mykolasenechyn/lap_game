@@ -1,7 +1,7 @@
 # lap_game
 Made with <a href="https://p5js.org/">P5.js</a>
 
-<img src="https://postimg.org/image/9jvylkt8m3/" alt="screenshot" />
+<img src="https://s1.postimg.org/35hcpzbc2n/screen.png" alt="screenshot" />
 
 This is a simple lap game, where the objective is to hit your mark and attempt to complete the most laps.
 
