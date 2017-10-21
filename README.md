@@ -1,4 +1,4 @@
-# lap_game
+# Lap Game
 Made with <a href="https://p5js.org/">P5.js</a>
 
 <img src="https://s1.postimg.org/35hcpzbc2n/screen.png" alt="screenshot" />
